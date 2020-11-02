@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--COUNTRIES DATABASE-->
+<Countries>
+  <Country Id="1" Name="SWEDEN" />
+  <Country Id="2" Name="ITALY" />
+  <Country Id="3" Name="NETHERLAND" />
+  <Country Id="4" Name="GERMANY" />
+  <Country Id="5" Name="CZECH REPUBLIC" />
+</Countries>
